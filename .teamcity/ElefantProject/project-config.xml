@@ -12,7 +12,7 @@
         <param name="imageId" value="/subscriptions/759c9fa9-8b8a-4ebf-a162-52b3b8da0936/resourceGroups/CHUBATOVA_GROUP/providers/Microsoft.Compute/images/chubatovaLinuxagent-image-20200925163231" />
         <param name="imageType" value="Image" />
         <param name="imageUrl" value="" />
-        <param name="maxInstances" value="1" />
+        <param name="maxInstances" value="2" />
         <param name="memory" value="2" />
         <param name="networkId" value="/subscriptions/759c9fa9-8b8a-4ebf-a162-52b3b8da0936/resourceGroups/chubatova-tc_group/providers/Microsoft.Network/virtualNetworks/chubatova-tc_group-vnet" />
         <param name="numberCores" value="2" />
@@ -37,7 +37,7 @@
         <param name="imageId" value="jetbrains/teamcity-agent" />
         <param name="imageType" value="Container" />
         <param name="imageUrl" value="" />
-        <param name="maxInstances" value="1" />
+        <param name="maxInstances" value="2" />
         <param name="memory" value="2" />
         <param name="numberCores" value="2" />
         <param name="osType" value="Linux" />
